@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *ReactJs, SQL*
 
-- 💬 Ask me about *C,Html,Css,Javascript*
+- 💬 Ask me about *C, Html, Css, Javascript*
 
 - 📫 How to reach me *akhil.dolui1975@gmail.com*
 

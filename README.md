@@ -9,7 +9,9 @@
 
 - 💬 Ask me about *C, Html, Css, Javascript*
 
-- 📫 How to reach me *akhil.dolui1975@gmail.com*
+- 📫 Reach me at *akhil.dolui1975@gmail.com*
+
+- ⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

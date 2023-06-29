@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anindya</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">A young-dumb 🤓 full stack web developer from India 🇮🇳</h3>
 <img align="right" widht=250 alt="coding" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anindya2004&label=Profile%20views&color=0e75b6&style=flat" alt="Anindya" /> </p>
 

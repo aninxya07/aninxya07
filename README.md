@@ -3,6 +3,8 @@
 <img align="right" widht=250 alt="coding" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anindya2004&label=Profile%20views&color=0e75b6&style=flat" alt="Anindya" /> </p>
 
+<p align="left"> <a href="https://twitter.com/Anindya15101377" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="anindya" /></a> </p>
+
 - 🌱 I’m currently learning *React Js, SQL*
 
 - 💬 Ask me about *C, Html, Css, Javascript*

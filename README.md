@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anindya</h1>
-<h3 align="center">A young-dumb 🤓 full stack web developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 full stack web designer from India 🇮🇳</h3>
 <img align="right" widht=250 alt="coding" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anindya2004&label=Profile%20views&color=0e75b6&style=flat" alt="Anindya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aninxya07" target="blank"><img src="https://img.shields.io/twitter/follow/aninxya07?logo=twitter&style=for-the-badge" alt="aninxya07" /></a> </p>
 
-- 🌱 I’m currently learning *React Js, SQL*
+- 🌱 I’m currently learning *Web design, ML*
 
-- 💬 Ask me about *C, Html, Css, Javascript*
+- 💬 Ask me about *C++, Figma, Tailwind, Python*
 
-- 📫 Reach me at *akhil.dolui1975@gmail.com*
+- 📫 Reach me at *aninxya07@gmail.com*
 
 - ⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
 

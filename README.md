@@ -31,13 +31,15 @@
 <br/>      
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="[https://www.adobe.com/products/xd.html](https://www.adobe.com/in/creativecloud.html?gclid=Cj0KCQjwltKxBhDMARIsAG8KnqWIDBSGqV2R6I75LysMX793ncbXev-mPbdN66nvu_UTTGopxmtq0KwaArGXEALw_wcB&sdid=DHWC19Q8&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwltKxBhDMARIsAG8KnqWIDBSGqV2R6I75LysMX793ncbXev-mPbdN66nvu_UTTGopxmtq0KwaArGXEALw_wcB:G:s&s_kwcid=AL!3085!3!645660843518!e!!g!!adobe!221174108!17525765108&gad_source=1)" target="_blank" rel="noreferrer"> <img src="[[[[https://cdn.worldvectorlogo.com/logos/adobe-xd](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-xd-icon.png)](https://w7.pngwing.com/pngs/565/63/png-transparent-adobe-xd-macos-bigsur-icon.png)](https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1024px-Adobe_XD_CC_icon.svg.png)" alt="xd" width="40" height="40"/> </a> </p>
 
-<h3 align="right">Support:</h3>
-<p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
+<div align="center">
+    <h3 align="right">Support:</h3>
+    <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
+    <h3 align="left">   Music taste💚 :</h3>
+    <br/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />
+</div>
 
 
-<h3 align="Music taste">   Music taste💚 :</h3>
-<br/>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />
 
 <h3 align="left">🔥   My Stats :</h3>
 

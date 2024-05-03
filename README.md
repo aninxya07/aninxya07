@@ -33,6 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
+<br/>
 
 <h3 align="left">   Music taste💚 :</h3>
 <br/>
@@ -41,7 +42,6 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-
 
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aninxya07&theme=dracula&border_radius=5.6&card_width=320" alt="GitHub Streak" height="230" align="left"/>

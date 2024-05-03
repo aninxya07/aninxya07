@@ -37,8 +37,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aninxya07&theme=whatsapp-dark2&border_radius=5.6" alt="GitHub Streak" /></a>" height="220" alt="streak graph"  />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninxya07&show_icons=true&locale=en" alt="aninxya07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninxya07&" alt="aninxya07" /></p>

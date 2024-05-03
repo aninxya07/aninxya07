@@ -55,8 +55,7 @@
 <h3 align="left">   Music taste💚 :</h3>
 <br/>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />
-
-
+<br/>
 
 <h3 align="left">🔥   My Stats :</h3>
 

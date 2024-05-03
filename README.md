@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/anindyadolui/](https://www.linkedin.com/in/anindyadolui/)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee**
-     **Change my mind!**
+      **Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

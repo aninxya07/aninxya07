@@ -37,5 +37,5 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aninxya07&theme=whatsapp-dark2&border_radius=5.6" alt="GitHub Streak" /></a>"
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aninxya07&theme=whatsapp-dark2&border_radius=5.6" alt="GitHub Streak" /></a>
 </div>

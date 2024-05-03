@@ -43,6 +43,6 @@
     <br/>
 </div>
 
-<h3 align="Music taste">💚   My Stats :</h3>
+<h3 align="Music taste">   Music taste💚 :</h3>
 <br/>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />

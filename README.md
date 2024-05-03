@@ -43,7 +43,5 @@
     <br/>
 </div>
 
-<div align="center">
-    <br/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />
-</div>
+<br/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />

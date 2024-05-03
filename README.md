@@ -34,7 +34,7 @@
 <div align="center">
     <h3 align="right">Support:</h3>
     <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
-    <h3 align="left" width="300">   Music taste💚 :</h3>
+    <h3 align="left">   Music taste💚 :</h3>
     <br/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" align="left"/>
 </div>

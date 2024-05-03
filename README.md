@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aninxya07@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anindyadolui/](https://www.linkedin.com/in/anindyadolui/)
+- 📄 Know about my experiences [Connect in Linkedin](https://www.linkedin.com/in/anindyadolui/)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee, Change my mind!**
 

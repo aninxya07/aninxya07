@@ -2,7 +2,8 @@
 <h3 align="center">A young-dumb 🤓 web designer from India 🇮🇳</h3>
 <br/>
 <img align="right" width="320" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aninxya07&label=Profile%20views&color=ff69b4&style=flat" alt="aninxya07" /> </p>
+<p align="left"> <img
+<br/> src="https://komarev.com/ghpvc/?username=aninxya07&label=Profile%20views&color=ff69b4&style=flat" alt="aninxya07" /> </p>
 
 - 🌱 I’m currently learning **Web design & ML**
 

@@ -40,6 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aninxya07&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph" align="right"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/aninxya07/aninxya07/output/snake.svg" alt="Snake animation" />
 
-###

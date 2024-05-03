@@ -47,6 +47,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" /> </a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" /></a> </p>
 
+<br/>
 <h3 align="left">Support:</h3>
 <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
 <br/>

@@ -33,7 +33,6 @@
 
 <h3 align="right">Support:</h3>
 <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
-<br/>
 
 
 <h3 align="Music taste">   Music taste💚 :</h3>

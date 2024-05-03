@@ -36,7 +36,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aninxya07&theme=dracula&border_radius=5.6&card_width=390" alt="GitHub Streak" height="250" align="left"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aninxya07&theme=dracula&border_radius=5.6&card_width=350" alt="GitHub Streak" height="250" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aninxya07&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph" align="right"/>
 </div>
 

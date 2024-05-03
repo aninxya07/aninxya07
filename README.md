@@ -36,7 +36,7 @@
 
 <h3 align="left">   Music taste💚 :</h3>
 <br/>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" align="left"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" />
 
 
 

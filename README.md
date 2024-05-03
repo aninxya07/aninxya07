@@ -65,4 +65,5 @@
     <br/>
 </div>
 
+![snake gif](https://github.com/aninxya07/aninxya07/blob/output/github-contribution-grid-snake.gif)
 

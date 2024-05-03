@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, Figma, Tailwind, Python**
 
-- 📫 How to reach me **aninxya07@gmail.com**
+- 📫 Reach me by sending an [email](mailto:aninxya07@gmail.com)
 
 - 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/anindyadolui/)
 

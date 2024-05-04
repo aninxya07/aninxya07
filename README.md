@@ -56,20 +56,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aninxya07&locale=en&hide_title=false&layout=compact&card_width=240&langs_count=5&theme=dracula&hide_border=false" height="230" alt="languages graph" align="right"/>
     <br/>
 </div>
-        
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<h2>🐍 My Contributions 🐍</h2>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+<div>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <h2>🐍 My Contributions 🐍</h2>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
+

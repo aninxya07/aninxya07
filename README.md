@@ -63,8 +63,6 @@
 </div>
 <br/>
 
-###
+### Snake eating my contribution graph lmao!
 
-
-
-  ![snake gif](https://github.com/aninxya07/aninxya07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aninxya07/aninxya07/blob/output/github-contribution-grid-snake.gif)

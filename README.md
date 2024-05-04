@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     <h1>🐍 My Contributions 🐍</h1>
     <picture>
       <source

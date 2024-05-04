@@ -61,6 +61,6 @@
       <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/aninxya07/aninxya07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/aninxya07/aninxya07/output/github-contribution-grid-snake-dark.svg)
     <br/><br/><br/>
 </div>

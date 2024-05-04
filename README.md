@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: **Chai tastes way better than Coffee, Change my mind!**
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anindyadolui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anindyadolui" height="30" width="40" /></a>
 <a href="https://fb.com/anindya-dolui-100086784511653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anindya-dolui-100086784511653" height="30" width="45" /></a>

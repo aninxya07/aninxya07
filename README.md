@@ -61,6 +61,6 @@
       <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aninxya07/aninxya07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/aninxya07/aninxya07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+    <br/><br/><br/>
 </div>

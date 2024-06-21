@@ -49,8 +49,7 @@
 </div>
 <br/>
 <h3 align="left">🔥   Leetcode :</h3>
-<a href="https://leetcard.jacoblin.cool/aninxya07?theme=dark">
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/aninxya07?theme=dark&font=IBM%20Plex%20Sans%20Hebrew)
 <h3 align="left">🔥   My Stats :</h3>
 <br/>
 <div align="center">

@@ -48,7 +48,7 @@
   </a>
 </div>
 <br/>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/aninxya07?theme=dark)
 <h3 align="left">🔥   My Stats :</h3>
 <br/>
 <div align="center">

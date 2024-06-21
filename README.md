@@ -38,20 +38,23 @@
 <h3 align="left">Support:</h3>
 <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
 <br/>
-
-<h3 align="left">   Music taste💚 :</h3>
-<br/>
+<div>
+    <h3 align="left">   Music taste💚 :</h3>
+    <br/>
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" /> -->
-<div align="left">
-  <a href="https://open.spotify.com/user/31cn5nqorrixlwikwa372aegnez4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4&count=3" alt="Spotify recently played" />
-  </a>
-</div>
-<br/>
-<h3 align="right">🔥   Leetcode :</h3>
-<div align="right">
+    <div align="left">
+      <a href="https://open.spotify.com/user/31cn5nqorrixlwikwa372aegnez4">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4&count=3" alt="Spotify recently played" />
+      </a>
+    </div>
+<!--     <br/> -->
+    <h3 align="right">🔥   Leetcode :</h3>
+    <div align="right">
     <img src="https://leetcard.jacoblin.cool/aninxya07?theme=dark&font=IBM%20Plex%20Sans%20Hebrew" alt="LeetCode Stats">
 </div>
+    
+</div>
+
 </br>
 <h3 align="left">🔥   My Stats :</h3>
 <br/>

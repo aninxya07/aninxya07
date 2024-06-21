@@ -49,7 +49,10 @@
 </div>
 <br/>
 <h3 align="left">🔥   Leetcode :</h3>
-![LeetCode Stats](https://leetcard.jacoblin.cool/aninxya07?theme=dark&font=IBM%20Plex%20Sans%20Hebrew)
+<div align="left">
+    <img src="https://leetcard.jacoblin.cool/aninxya07?theme=dark&font=IBM%20Plex%20Sans%20Hebrew" alt="LeetCode Stats">
+</div>
+</br>
 <h3 align="left">🔥   My Stats :</h3>
 <br/>
 <div align="center">

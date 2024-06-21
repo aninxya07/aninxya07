@@ -48,7 +48,8 @@
       </a>
     </div>
 <!--     <br/> -->
-    <h3 align="right">🔥   Leetcode :</h3>
+    <h3 align="left">🔥   Leetcode :</h3>
+    </br>
     <div align="right">
     <img src="https://leetcard.jacoblin.cool/aninxya07?theme=dark&font=IBM%20Plex%20Sans%20Hebrew" alt="LeetCode Stats">
 </div>

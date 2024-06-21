@@ -49,7 +49,7 @@
 </div>
 <br/>
 
-<a href="[https://open.spotify.com/user/31cn5nqorrixlwikwa372aegnez4](https://leetcard.jacoblin.cool/aninxya07?theme=dark)">
+<a href="https://leetcard.jacoblin.cool/aninxya07?theme=dark)">
 
 <h3 align="left">🔥   My Stats :</h3>
 <br/>

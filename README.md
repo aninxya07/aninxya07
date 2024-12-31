@@ -2,7 +2,7 @@
 <h3 align="center">A young-dumb 🤓 ML enthusiast from India 🇮🇳</h3>
 <br/>
 <img align="right" width="320" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aninxya07&label=Profile%20views&color=ff69b4&style=flat" alt="aninxya07" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aninxya07&label=Profile%20views&color=ff69b4&style=flat" alt="aninxya07" /> </p> -->
 
 - 🌱 I’m currently learning **Web design & ML**
 
@@ -39,15 +39,15 @@
 <p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
 <br/>
 
-<h3 align="left">   Music taste💚 :</h3>
-<br/>
+<!-- <h3 align="left">   Music taste💚 :</h3> -->
+<!-- <br/> -->
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" /> -->
-<div align="left">
+<!-- <div align="left">
     <a href="https://open.spotify.com/user/31cn5nqorrixlwikwa372aegnez4">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4&count=3" alt="Spotify recently played" />
     </a>
 </div>
-<br/>
+<br/> -->
 <h3 align="left">💛   Leetcode :</h3>
 </br>
 <div align="left">

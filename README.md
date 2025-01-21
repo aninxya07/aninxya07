@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web design & ML**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aninxya07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aninxy07-portfolio.netlify.app/)
 
 - 💬 Ask me about **C++, Figma, ML, DL**
 

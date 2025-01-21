@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,cpp,java,github,html,css,js,mongodb,react,postman" />
-    <img src="https://skillicons.dev/icons?i=figma,python,opencv,pytorch,anaconda,tensorflow,vscode,nodejs,nextjs,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,python,opencv,pytorch,flask,tensorflow,vscode,nodejs,nextjs,ts" /><br>
 </div>
 
 <br/>
